@@ -1,6 +1,6 @@
 # project-demo
-my project -demo
-Author-sanjana BS
+'''my project -demo
+Author-sanjana BS'''
 
 
 [package]
